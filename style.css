@@ -25,6 +25,11 @@ h2 {
     text-align: center;
 }
 
+nav{
+    position: fixed;
+    top: 0px
+}
+
 ul {
     text-align: center;
     /* margin: 20px; */
