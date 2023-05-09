@@ -1,8 +1,8 @@
-/* * {
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-} */
+}
 
 header {
     background-color: #B9BAA3;
@@ -56,8 +56,8 @@ body {
 }
 
 footer {
-    height: 130px;
-    background-color: #B9BAA3;
+    background-color: aqua;
+    margin-bottom: 0px;
     text-align: center;
     /* display: inline; */
 }
