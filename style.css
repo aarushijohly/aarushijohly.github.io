@@ -65,15 +65,22 @@ footer {
     color: black;
     height: 120px;
     background-color: #b1a7a6;
-    /* margin-bottom: 0px; */
+    padding-top: 20px;
+    padding-right: 20px;
     text-align: center;
-    /* display: inline; */
 }
 
 .img_logo {
     width: 80px;
     height: 80px;
     float: left;
+}
+
+.img_logo_1{
+    width: 30px;
+    height: 30px;
+    float: right;
+    position: relative;
 }
 
 .p_footer {
