@@ -1,14 +1,12 @@
 header {
-    background-color: #8C1515;
-    /* initially #444054 */
+    background-color: #444054;
     width: 100%;
     height: 180px;
     margin-top: 20px;
 }
 
 .sub_header {
-    background-color: #8C1515;
-    /* initially #444054 */
+    background-color: #444054;
     width: 100%;
     height: 80px;
     margin-top: 20px;
@@ -18,14 +16,12 @@ header {
 h1 {
     padding-left: 40%;
     padding-top: 40px;
-    color: #FDF0D5;
-    /* initially #b1a7a6 */
+    color: #b1a7a6;
     text-align: left;
 }
 
 .h2_index {
-    color: #FDF0D5;
-    /* initially #9c9583 */
+    color: #9c9583;
     text-align: left;
     padding-left: 43%;
 }
@@ -36,8 +32,7 @@ nav {
     padding: 10px;
     width: 70%;
     height: 40px;
-    /* background-color: #C9ADA7; */
-    /* initially #b1a7a6 */
+    background-color: #b1a7a6;
 }
 
 .img_dp {
@@ -73,8 +68,7 @@ body {
 footer {
     color: black;
     height: 120px;
-    /* background-color: #D2C295; */
-    /* initially #b1a7a6 */
+    background-color: #b1a7a6;
     padding-top: 20px;
     padding-right: 20px;
     text-align: center;
