@@ -30,16 +30,17 @@ h1 {
 
 nav {
     margin-top: 10px;
-    margin-left: 25%;
+    margin-left: 22%;
     padding: 10px;
-    width: 70%;
+    width: 50%;
     height: 40px;
     /* background-color: #b1a7a6; */
 }
 
 .img_dp {
-    float: left;
+    float: right;
     display: inline;
+    margin-top: 37px;
 }
 
 .ul_nav {
@@ -102,4 +103,10 @@ footer {
     padding: 0px;
     margin: 0px;
     /* display: inline-block; */
+}
+
+.p1_footer{
+    padding: 0px;
+    margin: 0px;
+    padding-right: 7%;
 }
