@@ -134,3 +134,10 @@ footer {
 .bold{
     font-weight: bold;
 }
+
+
+table{
+    border: solid;
+    border-width: 3px;
+    border-spacing: 3px 1rem;
+}
