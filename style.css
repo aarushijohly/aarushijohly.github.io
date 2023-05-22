@@ -16,7 +16,7 @@ header {
     margin-top: 20px;
     padding-bottom: 25px;
     text-align: left;
-}   
+}
 
 
 h1 {
@@ -91,14 +91,14 @@ footer {
     padding-left: 20px;
 }
 
-.img_logo_1{
+.img_logo_1 {
     width: 30px;
     height: 30px;
     float: right;
     position: relative;
 }
 
-.img_SVM{
+.img_SVM {
     float: right;
     padding-right: 70px;
     width: 210px;
@@ -106,7 +106,7 @@ footer {
     display: block;
 }
 
-.home{
+.home {
     float: right;
     padding-top: 15px;
     padding-right: 15px;
@@ -120,18 +120,18 @@ footer {
     /* display: inline-block; */
 }
 
-.p1_footer{
+.p1_footer {
     padding: 0px;
     margin: 0px;
     padding-right: 10%;
 }
 
-.p_color{
+.p_color {
     color: #8C1515;
     font-weight: bold;
 }
 
-.bold{
+.bold {
     font-weight: bold;
 }
 
@@ -140,4 +140,8 @@ table{
     border: solid;
     border-width: 3px;
     border-spacing: 3px 1rem;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+    margin-top: 10px;
 }
