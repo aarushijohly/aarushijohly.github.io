@@ -136,12 +136,15 @@ footer {
 }
 
 
-table{
-    border: solid;
-    border-width: 3px;
-    border-spacing: 3px 1rem;
-    border-collapse: collapse;
-    table-layout: fixed;
+/* table {
+    text-align: left;
+    border: 3px solid black;
     width: 100%;
-    margin-top: 10px;
-}
+    margin-top: 20px;
+    padding: 10px;
+} */
+
+/* td{
+    border-top: 1px solid black;
+    /* border-right: 2px solid black;
+} */
