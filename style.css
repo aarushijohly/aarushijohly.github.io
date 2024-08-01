@@ -1,19 +1,17 @@
 header {
     font-family: "Times New Roman", Times, serif;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 
 .sub_header {
     font-family: "Times New Roman", Times, serif;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 
 h1 {
     font-family: "Times New Roman", Times, serif;
     font-size: 50px;
-    padding-left: 35%;
-    padding-top: 35px;
     color: #000000;
     text-align: left;
 }
@@ -23,7 +21,6 @@ h1 {
     font-size: 30px;
     color: #000000;
     text-align: left;
-    padding-left: 40%;
 }
 
 nav {
@@ -35,21 +32,9 @@ nav {
     height: 40px;
 }
 
-.img_dp {
-    float: right;
-    display: inline;
-    margin-top: 37px;
-}
-
 .ul_nav {
     text-align: center;
     margin: 20px;
-}
-
-.li_nav {
-    padding-bottom: 20px;
-    padding-left: 10px;
-    display: inline-block;
 }
 
 body {
@@ -73,20 +58,6 @@ footer {
     height: 40px;
 }
 
-.p_footer {
-    padding: 0px;
-    margin: 0px;
-}
-
-.p1_footer {
-    padding: 0px;
-    margin: 0px;
-}
-
-.p_color {
-    color: #8C1515;
-    font-weight: bold;
-}
 
 .AboutMe{
     padding-top: 40px;
