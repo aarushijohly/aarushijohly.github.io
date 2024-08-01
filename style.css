@@ -23,14 +23,14 @@ h1 {
     font-size: 50px;
     padding-left: 35%;
     padding-top: 35px;
-    color: #FDF0D5;
+    color: #000000;
     text-align: left;
 }
 
 .h2_index {
     font-family: "Times New Roman", Times, serif;
     font-size: 30px;
-    color: #FDF0D5;
+    color: #000000;
     text-align: left;
     padding-left: 40%;
 }
@@ -75,7 +75,7 @@ body {
 
 footer {
     font-family: "Times New Roman", Times, serif;
-    color: #FAF9F6;
+    color: #000000;
     height: 120px;
     /* background-color: #b1a7a6; */
     padding-top: 20px;
