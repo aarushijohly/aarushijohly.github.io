@@ -21,6 +21,9 @@ nav {
 
 .ul_nav {
     margin: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 body {
@@ -34,14 +37,6 @@ footer {
     font-family: "Times New Roman", Times, serif;
     color: #000000;
     text-align: center;
-}
-
-.home {
-    float: right;
-    padding-top: 15px;
-    padding-right: 15px;
-    width: 40px;
-    height: 40px;
 }
 
 
