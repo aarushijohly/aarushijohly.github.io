@@ -1,39 +1,25 @@
 header {
     font-family: "Times New Roman", Times, serif;
-    margin-top: 10px;
 }
-
-.sub_header {
-    font-family: "Times New Roman", Times, serif;
-    margin-top: 5px;
-}
-
 
 h1 {
     font-family: "Times New Roman", Times, serif;
-    font-size: 50px;
+    font-size: 30px;
     color: #000000;
-    text-align: left;
 }
 
 .h2_index {
     font-family: "Times New Roman", Times, serif;
-    font-size: 30px;
+    font-size: 15px;
     color: #000000;
-    text-align: left;
 }
 
 nav {
     font-family: "Times New Roman", Times, serif;
-    margin-top: 10px;
-    margin-left: 22%;
-    padding: 10px;
-    width: 50%;
     height: 40px;
 }
 
 .ul_nav {
-    text-align: center;
     margin: 20px;
 }
 
@@ -62,21 +48,3 @@ footer {
 .AboutMe{
     padding-top: 40px;
 }
-
-.bold {
-    font-weight: bold;
-}
-
-
-table {
-    border: 3px solid black;
-    width: 100%;
-    margin-top: 20px;
-    padding: 10px;
-}
-
-th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 4px;
-  }
