@@ -68,14 +68,14 @@ nav {
 
 body {
     font-family: "Times New Roman", Times, serif;
-    color: whites;
-    background-color: #000000;
+    color: black;
+    background-color: #FAF9F6;
 }
 
 
 footer {
     font-family: "Times New Roman", Times, serif;
-    color: black;
+    color: #FAF9F6;
     height: 120px;
     /* background-color: #b1a7a6; */
     padding-top: 20px;
