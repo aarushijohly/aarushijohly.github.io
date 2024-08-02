@@ -17,6 +17,7 @@ h1 {
 nav {
     font-family: "Times New Roman", Times, serif;
     height: 40px;
+    position: right;
 }
 
 .ul_nav {
