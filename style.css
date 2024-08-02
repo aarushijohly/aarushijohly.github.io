@@ -1,36 +1,25 @@
 header {
     font-family: "Times New Roman", Times, serif;
     text-align: center;
+    margin-top: 150px;
 }
 
 h1 {
     font-family: "Times New Roman", Times, serif;
-    font-size: 30px;
-    color: #000000;
-}
-
-.h2_index {
-    font-family: "Times New Roman", Times, serif;
-    font-size: 15px;
+    font-size: 50px;
     color: #000000;
 }
 
 nav {
     font-family: "Times New Roman", Times, serif;
-    height: 40px;
     text-align: center;
-}
-
-.ul_nav {
-    margin: 20px;
-    list-style: none;
-    text-align: center;
+    padding-bottom: 70px;
 }
 
 body {
     font-family: "Times New Roman", Times, serif;
     color: black;
-    background-color: #FAF9F6;
+    background-color: #ffffff;
 }
 
 
