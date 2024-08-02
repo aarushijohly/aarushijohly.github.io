@@ -6,20 +6,28 @@ header {
 
 h1 {
     font-family: "Times New Roman", Times, serif;
-    font-size: 50px;
     color: #000000;
+    font-size: 100px;
+}
+
+h2{
+    font-size: 35px;
 }
 
 nav {
     font-family: "Times New Roman", Times, serif;
     text-align: center;
-    padding-bottom: 70px;
+}
+
+.navtxt{
+    font-size: 30px;  
 }
 
 body {
     font-family: "Times New Roman", Times, serif;
     color: black;
     background-color: #ffffff;
+
 }
 
 
@@ -29,6 +37,9 @@ footer {
     text-align: center;
 }
 
+hr{
+    width: 80%;
+}
 
 .AboutMe{
     padding-left: 130px;
