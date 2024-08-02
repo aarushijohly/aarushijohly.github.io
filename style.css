@@ -1,5 +1,6 @@
 header {
     font-family: "Times New Roman", Times, serif;
+    text-align: center;
 }
 
 h1 {
@@ -17,14 +18,13 @@ h1 {
 nav {
     font-family: "Times New Roman", Times, serif;
     height: 40px;
-    position: right;
+    text-align: center;
 }
 
 .ul_nav {
     margin: 20px;
-    position: fixed;
-    top: 0;
-    width: 100%;
+    list-style: none;
+    text-align: center;
 }
 
 body {
@@ -42,5 +42,7 @@ footer {
 
 
 .AboutMe{
-    padding-top: 40px;
+    padding-left: 130px;
+    padding-right: 130px;
+    text-align: justify;
 }
