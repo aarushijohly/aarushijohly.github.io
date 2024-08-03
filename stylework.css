@@ -1,0 +1,40 @@
+header {
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    color: #000000;
+    font-size: 50px;
+}
+
+h4{
+    padding-left: 10%;
+}
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+    background-color: #ffffff;
+
+}
+
+
+footer {
+    font-family: "Times New Roman", Times, serif;
+    color: #000000;
+    text-align: center;
+}
+
+hr{
+    width: 80%;
+}
+
+.project1{
+    width: 70%;
+    padding-left: 10%;
+    text-align: justify;
+    
+}
