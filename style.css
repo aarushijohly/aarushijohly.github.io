@@ -1,16 +1,11 @@
-header {
-    font-family: "Times New Roman", Times, serif;
+header {   
     text-align: center;
-    background-color: aqua;
 }
 
-h1 {
-    font-family: "Times New Roman", Times, serif;
-    color: #000000;
+h1 {  
     font-size: 100px;
     margin-top: 30px;
     margin-bottom: 10px;
-    padding-top: 50px;
 }
 
 h2{
@@ -36,7 +31,6 @@ hr{
 .AboutMe{
     margin-left: 10%;
     margin-right: 10%;
-    margin-bottom: 50p;
     text-align: justify;
 }
 
@@ -47,9 +41,7 @@ body {
 
 }
 
-
 footer {
-    font-family: "Times New Roman", Times, serif;
     color: #000000;
     text-align: center;
 }
