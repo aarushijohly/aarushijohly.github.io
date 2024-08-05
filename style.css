@@ -1,34 +1,52 @@
-header {   
+header {
     text-align: center;
 }
 
-h1 {  
+h1 {
     font-size: 100px;
     margin-top: 30px;
     margin-bottom: 10px;
 }
 
-h2{
+h2 {
     font-size: 30px;
 }
 
-.img_self{
-    width: 26%;
-    margin-right: 20px;
+figure {
+    border: thin #c0c0c0 solid;
+    display: inline-block;
+    padding: 5px;
+    max-width: 220px;
 }
 
-.img_project{
-    width: 26%;
-    margin-left: 20px;
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 10px;
+    text-align: center;
 }
 
-hr{
+
+.img_self {
+    max-width: 220px;
+    max-height: 150px;
+    float: left;
+}
+
+.img_project {
+    max-width: 220px;
+    max-height: 150px;
+    float: right;
+}
+
+hr {
     margin-top: 35px;
     width: 80%;
     margin-bottom: 35px;
 }
 
-.AboutMe{
+.AboutMe {
     margin-left: 10%;
     margin-right: 10%;
     text-align: justify;
@@ -37,7 +55,7 @@ hr{
 body {
     font-family: "Times New Roman", Times, serif;
     color: black;
-    background-color: #ffffff;    
+    background-color: #ffffff;
 
 }
 
