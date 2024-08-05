@@ -13,31 +13,29 @@ h2 {
 }
 
 figure {
-    border: thin #c0c0c0 solid;
+    border: 5px solid black;
     display: inline-block;
     padding: 5px;
-    max-width: 220px;
+    width: 400px;
+    height: 280px;
 }
 
 figcaption {
-    background-color: #222;
-    color: #fff;
-    font: italic smaller sans-serif;
-    padding: 10px;
+    background-color: black;
+    color: white;
+    font: bold "Sofia", sans-serif;
     text-align: center;
+    padding: 10px;
 }
 
-
 .img_self {
-    max-width: 220px;
-    max-height: 150px;
-    float: left;
+    width: 380px;
+    height: 240px;
 }
 
 .img_project {
-    max-width: 220px;
-    max-height: 150px;
-    float: right;
+    width: 380px;
+    height: 240px;
 }
 
 hr {
@@ -53,7 +51,7 @@ hr {
 }
 
 body {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Sofia", sans-serif;
     color: black;
     background-color: #ffffff;
 
