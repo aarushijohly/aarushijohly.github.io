@@ -23,7 +23,7 @@ figure {
 figcaption {
     background-color: black;
     color: white;
-    font: bold "Sofia", sans-serif;
+    font-family: Consolas,"courier new";
     text-align: center;
     padding: 10px;
 }
@@ -51,7 +51,7 @@ hr {
 }
 
 body {
-    font-family: "Sofia", sans-serif;
+    font-family: Consolas,"courier new";
     color: black;
     background-color: #ffffff;
 
