@@ -1,1 +1,1 @@
-# aarushijohly.github.io is my personal website containing necessary proffesional information about me.
+Personal website containing necessary proffesional information about me.
