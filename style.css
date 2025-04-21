@@ -16,7 +16,7 @@ figure {
     border: 5px solid black;
     display: inline-block;
     padding: 5px;
-    width: 400px;
+    width: 300px;
     height: 280px;
 }
 
@@ -40,13 +40,13 @@ figcaption {
 
 hr {
     margin-top: 35px;
-    width: 65%;
+    width: 60%;
     margin-bottom: 35px;
 }
 
 .AboutMe {
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 25%;
+    margin-right: 25%;
     text-align: justify;
 }
 
