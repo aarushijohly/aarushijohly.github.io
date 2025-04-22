@@ -13,7 +13,6 @@ h2 {
 }
 
 figure {
-    border: 5px solid black;
     display: inline-block;
     padding: 5px;
     width: 300px;
