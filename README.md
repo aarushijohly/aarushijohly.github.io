@@ -1,1 +1,1 @@
-Personal website containing necessary profeSsional information about me.
+Personal website containing necessary professional information about me.
